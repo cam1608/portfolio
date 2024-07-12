@@ -2,7 +2,6 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
 import './Social.css'
 
 const Social = () => {
@@ -29,22 +28,12 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/mario-caraiman-395000206/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color  contact-social-icons"
                     >
                       <FaLinkedinIn />
-                    </a>
-                  </li>
-                  <li className="contact-icons">
-                    <a
-                      href="hhttps://leetcode.com/19sajib/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-color contact-social-icons"
-                    >
-                      <SiLeetcode />
                     </a>
                   </li>
                 </ul>

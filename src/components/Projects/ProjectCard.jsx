@@ -14,7 +14,7 @@ const ProjectCard = (props) => {
         style={{
           height: "200px",
           objectFit: "cover",
-          borderRadius: "10px 10px 0 0", // Rounded corners only at the top
+          borderRadius: "10px 10px 0 0",
         }}
       />
       <Card.Body style={{ display: "flex", flexDirection: "column" }}>
