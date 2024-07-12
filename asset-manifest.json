@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.991de969.css",
-    "main.js": "/portfolio/static/js/main.8da794d5.js",
-    "static/media/smart-brain.png": "/portfolio/static/media/smart-brain.049a3cf75027a20d8990.png",
-    "static/media/RoboFriends.png": "/portfolio/static/media/RoboFriends.25db5669b4fd6a43bc4a.png",
-    "static/media/mario.pdf": "/portfolio/static/media/mario.544c60f50e9fbc4bb422.pdf",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chuckles-with-chuck.png": "/portfolio/static/media/chuckles-with-chuck.49c81d2e156a27056603.png",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/sLogo.png": "/portfolio/static/media/sLogo.6490379be90e2e99bdb0.png",
-    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio/index.html",
-    "main.991de969.css.map": "/portfolio/static/css/main.991de969.css.map",
-    "main.8da794d5.js.map": "/portfolio/static/js/main.8da794d5.js.map"
+    "main.css": "/static/css/main.01f590ae.css",
+    "main.js": "/static/js/main.a20e8d6b.js",
+    "static/media/smart-brain.png": "/static/media/smart-brain.049a3cf75027a20d8990.png",
+    "static/media/RoboFriends.png": "/static/media/RoboFriends.25db5669b4fd6a43bc4a.png",
+    "static/media/mario.pdf": "/static/media/mario.544c60f50e9fbc4bb422.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chuckles-with-chuck.png": "/static/media/chuckles-with-chuck.49c81d2e156a27056603.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/sLogo.png": "/static/media/sLogo.6490379be90e2e99bdb0.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.01f590ae.css.map": "/static/css/main.01f590ae.css.map",
+    "main.a20e8d6b.js.map": "/static/js/main.a20e8d6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.991de969.css",
-    "static/js/main.8da794d5.js"
+    "static/css/main.01f590ae.css",
+    "static/js/main.a20e8d6b.js"
   ]
 }
