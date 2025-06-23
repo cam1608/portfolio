@@ -25,7 +25,7 @@ const Projects = () => {
               title="smart-brain"
               description="Smart-Brain is a face recognition web application that leverages the Clarifai API to detect faces in images. Built with a Node.js and Express backend, it uses PostgreSQL for user authentication and profile management. The frontend is developed with React, providing a sleek and responsive user interface. Users can register, sign in, and submit image URLs to detect faces, making Smart-Brain an engaging and practical application of AI technology."
               ghLink="https://github.com/cam1608/smart-brain"
-              demoLink="https://image-brain-2407f9fb850d.herokuapp.com/"
+              demoLink="https://smart-brain-production-26d0.up.railway.app/"
             />
             </Col>
             <Col md={4} className="project-card">
